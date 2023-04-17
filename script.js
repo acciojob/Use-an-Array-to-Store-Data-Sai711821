@@ -1,1 +1,1 @@
-yourArray = ["sai", 10 , true, "navya", "pokale"];
+let yourArray = ["sai", 10 , true, "navya", "pokale"];
